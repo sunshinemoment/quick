@@ -1,5 +1,5 @@
 {
-  "name": "@quick/el-design",
+  "name": "@sunshinemoment/el-design",
   "version": "0.0.5",
   "description": "基于 åelementUI 的组件库",
   "author": "biansj <biansj@yunxi.tv>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
   },
-  "gitHead": "6b9f63dc47fdf3ce601ed114ec56398037861f04"
+  "gitHead": "3ca50b27021d55297ba884c5525ba9eda290f0cb"
 }
