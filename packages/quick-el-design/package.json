@@ -17,11 +17,14 @@
     "type": "git",
     "url": "git+https://github.com/sunshinemoment/quick.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
   },
-  "gitHead": "02520dbe42b5b01be246e4936a0b414ad48e80a1"
+  "gitHead": "6b9f63dc47fdf3ce601ed114ec56398037861f04"
 }
