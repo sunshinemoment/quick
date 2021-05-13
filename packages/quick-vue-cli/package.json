@@ -1,0 +1,29 @@
+{
+  "name": "@quick/vue-cli",
+  "version": "0.0.1",
+  "description": "vue 脚手架",
+  "author": "biansj <biansj@yunxi.tv>",
+  "homepage": "https://github.com/sunshinemoment/quick#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinemoment/quick.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bin": {
+    "quick-vue-cli": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/sunshinemoment/quick/issues"
+  }
+}

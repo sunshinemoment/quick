@@ -1,0 +1,26 @@
+{
+  "name": "@quick/el-design",
+  "version": "0.0.1",
+  "description": "基于 åelementUI 的组件库",
+  "author": "biansj <biansj@yunxi.tv>",
+  "homepage": "https://github.com/sunshinemoment/quick#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinemoment/quick.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sunshinemoment/quick/issues"
+  }
+}

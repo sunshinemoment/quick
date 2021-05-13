@@ -1,0 +1,26 @@
+{
+  "name": "@quick/stylelint-config",
+  "version": "0.0.1",
+  "description": "quick stylelint",
+  "author": "biansj <biansj@yunxi.tv>",
+  "homepage": "https://github.com/sunshinemoment/quick#readme",
+  "license": "ISC",
+  "main": "lib/quick-stylelint-config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinemoment/quick.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sunshinemoment/quick/issues"
+  }
+}
