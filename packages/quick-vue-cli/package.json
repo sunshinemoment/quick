@@ -1,5 +1,5 @@
 {
-  "name": "@quick/vue-cli",
+  "name": "@sunshinemoment/vue-cli",
   "version": "0.0.3",
   "description": "vue 脚手架",
   "author": "biansj <biansj@yunxi.tv>",
@@ -28,5 +28,6 @@
   },
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
-  }
+  },
+  "gitHead": "3ca50b27021d55297ba884c5525ba9eda290f0cb"
 }

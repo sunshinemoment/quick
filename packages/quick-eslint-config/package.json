@@ -1,5 +1,5 @@
 {
-  "name": "@quick/eslint-config",
+  "name": "@sunshinemoment/eslint-config",
   "version": "0.0.3",
   "description": "> TODO: description",
   "author": "biansj <biansj@yunxi.tv>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
-  }
+  },
+  "gitHead": "3ca50b27021d55297ba884c5525ba9eda290f0cb"
 }

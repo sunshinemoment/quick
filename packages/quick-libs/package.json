@@ -1,5 +1,5 @@
 {
-  "name": "@quick/libs",
+  "name": "@sunshinemoment/libs",
   "version": "0.0.3",
   "description": "quick 工具库",
   "author": "biansj <biansj@yunxi.tv>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
-  }
+  },
+  "gitHead": "3ca50b27021d55297ba884c5525ba9eda290f0cb"
 }
