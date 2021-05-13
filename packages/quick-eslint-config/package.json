@@ -1,6 +1,6 @@
 {
   "name": "@quick/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "biansj <biansj@yunxi.tv>",
   "homepage": "https://github.com/sunshinemoment/quick#readme",
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
-  },
-  "dependencies": {}
+  }
 }

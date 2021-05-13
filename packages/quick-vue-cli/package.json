@@ -1,6 +1,6 @@
 {
   "name": "@quick/vue-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vue 脚手架",
   "author": "biansj <biansj@yunxi.tv>",
   "homepage": "https://github.com/sunshinemoment/quick#readme",
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/sunshinemoment/quick/issues"
-  },
-  "dependencies": {}
+  }
 }
