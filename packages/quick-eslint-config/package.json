@@ -5,7 +5,7 @@
   "author": "biansj <biansj@yunxi.tv>",
   "homepage": "https://github.com/sunshinemoment/quick#readme",
   "license": "ISC",
-  "main": "lib/quick-eslint-config.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

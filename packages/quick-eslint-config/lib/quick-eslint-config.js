@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = quickEslintConfig;
 
 function quickEslintConfig() {
-    // TODO
+  // TODO
 }
