@@ -1,3 +1,3 @@
 const main = require("./lib/main");
 
-module.exports = mian;
+module.exports = main;

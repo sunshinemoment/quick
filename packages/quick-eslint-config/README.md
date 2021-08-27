@@ -1,11 +1,23 @@
 # `quick-eslint-config`
 
-> TODO: description
+## Install
+
+### NPM
+
+```shell
+npm i @sunshinemoment/eslint-config -D
+```
+
+#### YARN
+
+```shell
+yarn add @sunshinemoment/eslint-config --dev
+```
 
 ## Usage
 
-```
-const quickEslintConfig = require('quick-eslint-config');
-
-// TODO: DEMONSTRATE API
+```json
+{
+  "extends": ["@vant"]
+}
 ```

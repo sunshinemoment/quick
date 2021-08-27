@@ -1,0 +1,14 @@
+{
+  "singleQuote": true,
+  "semi": false,
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "ignore",
+  "vetur.format.defaultFormatterOptions": {
+    "prettier": {
+      "singleQuote": true,
+      "semi": false
+    }
+  }
+}

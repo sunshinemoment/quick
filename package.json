@@ -4,7 +4,11 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
-	"workspaces": [
-		"packages/*"
-	]
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "@sunshinemoment/el-design:build": "lerna exec --scope @sunshinemoment/el-design -- yarn build",
+    "@sunshinemoment/el-design-examples:dev": "lerna exec --scope @sunshinemoment/el-design-examples -- yarn dev"
+  }
 }

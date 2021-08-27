@@ -1,29 +1,14 @@
 {
-  "name": "@sunshinemoment/el-design",
-  "version": "0.0.6",
-  "description": "基于 elementUI 的组件库",
-  "author": "biansj <biansj@yunxi.tv>",
-  "homepage": "https://github.com/sunshinemoment/quick#readme",
-  "main": "lib/quick-el-design.umd.js",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sunshinemoment/quick.git"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
+  "name": "@sunshinemoment/el-design-examples",
+  "version": "0.0.1",
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "element-ui": "^2.15.2",
-    "moment": "^2.29.1",
     "vue": "^2.6.11",
-    "vue-pull-to": "^0.1.8",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
@@ -35,7 +20,6 @@
     "@vue/cli-service": "~4.5.0",
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-eslint": "^10.1.0",
-    "babel-plugin-component": "^1.1.1",
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
@@ -43,9 +27,5 @@
     "prettier": "^2.2.1",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  },
-  "bugs": {
-    "url": "https://github.com/sunshinemoment/quick/issues"
-  },
-  "gitHead": "3ca50b27021d55297ba884c5525ba9eda290f0cb"
+  }
 }

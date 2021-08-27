@@ -1,4 +1,4 @@
-# quick-el-design
+# quick-el-design-examples
 
 ## Project setup
 ```
