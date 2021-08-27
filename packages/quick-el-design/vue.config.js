@@ -32,7 +32,7 @@ module.exports = {
   chainWebpack: (config) => {
     /**
      * 参考文档:
-     * 1. [vuecli3创建的组件库工程实现按需引入](https://blog.csdn.net/mate_ge/article/details/100077130)
+     * 1.[vuecli3创建的组件库工程实现按需引入](https://blog.csdn.net/mate_ge/article/details/100077130)
      * 2. [关于vue-cli 3配置打包优化要点](https://juejin.cn/post/6844903827729022984)
      */
     config.optimization.minimize(false) // 是否压缩代码 可调试时候关闭

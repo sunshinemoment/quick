@@ -1,8 +1,18 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "version": {
+      "allowBranch": "main",
+      "exact": true,
+      "ignoreChanges": ["**/*.md"],
+      "message": "build: release version %v"
+    },
+    "publish": {
+      "ignoreChanges": [".gitignore", "*.log", "*.md"],
+      "registry": "https://nexus.yunxi.tv/repository/npm-local/"
+    }
+  }
 }
